@@ -2,7 +2,7 @@ DocAppoint - Doctor Appointment Booking System
 
 
 ## 🏥 Introduction
-Prescripto is a comprehensive doctor appointment booking platform that connects patients with healthcare professionals. The platform features a user-friendly interface for patients to book appointments, manage their medical records, and interact with doctors. It includes separate portals for patients, doctors, and administrators.
+DocAppoint is a comprehensive doctor appointment booking platform that connects patients with healthcare professionals. The platform features a user-friendly interface for patients to book appointments, manage their medical records, and interact with doctors. It includes separate portals for patients, doctors, and administrators.
 
 ## 🚀 Features
 
